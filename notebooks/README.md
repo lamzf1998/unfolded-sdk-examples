@@ -3,6 +3,7 @@
 [![Binder][binder_badge]][binder_jupyterlab_url]
 
 This is a collection of example notebooks which illustrate the use of [Unfolded Map SDK](https://docs.unfolded.ai/map-sdk) in Jupyter.
+The examples can be [launched in browser][binder_jupyterlab_url] via Binder.
 
 Please note that it takes some time for the Jupyter environment on Binder to load and start in the browser. Once it is loaded you can fully interact with the examples.
 
