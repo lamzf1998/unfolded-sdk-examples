@@ -7,5 +7,8 @@
     "start": "yarn build && yarn http-server",
     "build": "yarn sass src/style.scss src/style.css",
     "scss-watch": "yarn sass --watch src/style.scss src/style.css"
+  },
+  "dependencies": {
+    "@unfolded/map-sdk": "^1.9.1"
   }
 }
